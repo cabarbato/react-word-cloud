@@ -113,7 +113,7 @@ class Chart extends React.Component {
             .canvas(function () { return Canvas.createCanvas(1, 1); })
             .words(words)
             .padding(function (d) { return Math.round(d.size / 20) + 4 })
-            .font("Amatic")
+            .font("'Amatic SC', sans-serif")
             .fontSize(function (d) {
                 var maxratio = 366 / max,
                     widthratio = element.getBoundingClientRect().width / 800;
