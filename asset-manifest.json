@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-word-cloud/static/css/main.a528c56a.chunk.css",
-    "main.js": "/react-word-cloud/static/js/main.39728fd9.chunk.js",
-    "main.js.map": "/react-word-cloud/static/js/main.39728fd9.chunk.js.map",
+    "main.js": "/react-word-cloud/static/js/main.c23f3852.chunk.js",
+    "main.js.map": "/react-word-cloud/static/js/main.c23f3852.chunk.js.map",
     "runtime-main.js": "/react-word-cloud/static/js/runtime-main.4e135fd1.js",
     "runtime-main.js.map": "/react-word-cloud/static/js/runtime-main.4e135fd1.js.map",
     "static/css/2.6590d449.chunk.css": "/react-word-cloud/static/css/2.6590d449.chunk.css",
     "static/js/2.d0f77985.chunk.js": "/react-word-cloud/static/js/2.d0f77985.chunk.js",
     "static/js/2.d0f77985.chunk.js.map": "/react-word-cloud/static/js/2.d0f77985.chunk.js.map",
     "index.html": "/react-word-cloud/index.html",
-    "precache-manifest.c0d7d5e327ba13a3fe50324cb78d3666.js": "/react-word-cloud/precache-manifest.c0d7d5e327ba13a3fe50324cb78d3666.js",
+    "precache-manifest.acd015dcbb28a2b5f01375b930bd9944.js": "/react-word-cloud/precache-manifest.acd015dcbb28a2b5f01375b930bd9944.js",
     "service-worker.js": "/react-word-cloud/service-worker.js",
     "static/css/2.6590d449.chunk.css.map": "/react-word-cloud/static/css/2.6590d449.chunk.css.map",
     "static/css/main.a528c56a.chunk.css.map": "/react-word-cloud/static/css/main.a528c56a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6590d449.chunk.css",
     "static/js/2.d0f77985.chunk.js",
     "static/css/main.a528c56a.chunk.css",
-    "static/js/main.39728fd9.chunk.js"
+    "static/js/main.c23f3852.chunk.js"
   ]
 }
