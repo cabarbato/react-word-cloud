@@ -1,5 +1,6 @@
 {
   "name": "react-word-cloud",
+  "homepage": "https://cabarbato.github.io/react-word-cloud",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "d3": "^3.5.17",
     "d3-cloud": "^1.2.5",
     "d3-scale-chromatic": "^2.0.0",
+    "gh-pages": "^3.1.0",
     "react": "^16.13.0",
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.0",
@@ -18,6 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

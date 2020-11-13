@@ -1,7 +1,13 @@
 
 ## ☁️ React Word Cloud
 
-This is a sample word cloud based off of [this word cloud by jasondavies](https://github.com/jasondavies/d3-cloud) and uses [this dataset by akmittal](https://www.kaggle.com/akmittal/quotes-dataset). It uses tippy.js to show a random quote related to the hovered over word.
+This is a sample word cloud based off of [this word cloud by jasondavies](https://github.com/jasondavies/d3-cloud) and uses [this dataset by akmittal](https://www.kaggle.com/akmittal/quotes-dataset). It uses tippy.js to show a random quote related to the hovered over word. **[View the demo here.](https://cabarbato.github.io/react-word-cloud/)**
+
+#### Progress: 
+![100%](https://progress-bar.dev/100/?width=400)
+
+- [x] Phase 1: Basic functionality
+- [x] Phase 2: Add tooltip on hover with random quote
 
 ---
 
